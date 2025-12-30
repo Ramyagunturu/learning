@@ -1,0 +1,26 @@
+body {
+  background-color: #111111;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 100px;
+  margin-right: 100px;
+  overflow: hidden;
+  background-color: #e6dede97;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: rgba(255, 255, 255, 0.872);
+  padding: 20px 20px;
+  text-decoration: none;
+}
